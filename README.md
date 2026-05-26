@@ -1,0 +1,1 @@
+An engaging web-based Stone Paper Scissors game developed with HTML, CSS, and JavaScript. It includes dynamic gameplay, computer-generated choices, live result updates,instant win/lose/draw detection, score management, and a clean responsive user interface.
